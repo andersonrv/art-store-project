@@ -1,0 +1,90 @@
+**Course code:** SODV1201
+
+**Semester/Year:** Winter 2018
+
+**Assignment Code:** GP
+
+**Author:** Team 4S: Skylar Balcom, Oswaldo Salazar, Anderson Resende Viana
+
+**Team Name:** BigBytes
+
+**Date created:** 2018-01-31
+
+**Description:** Minute of Meeting 01
+
+**Repository Address:**
+
+https://gitlab.com/bvc_sdd_os911/winter2018/SODV1201/IWP_WINT2018_GP_BigByte.git
+
+** Meeting Date:** 2018-01-31 / Time: 1:45pm 
+
+**Discussion and Actions:**
+
+• Discussed what the app will do:
+- people will be able to order pre-made meals
+
+- the meals will be delivered
+
+- Can place an order using a credit card
+
+- Clients would need to put their order in by the end of the week each week
+in order to have their order for next week
+
+• Talked about whether to make it many to many or one to many
+- One to many would be easier to navigate
+
+• Modules
+- Get inventory
+
+- Place order
+
+- Payment
+
+• Will need
+
+- Forms
+
+- Inventory
+
+- Database
+
+- Cart
+
+• Server-side
+
+- Generate report (Pick List) weekly
+
+• MAYBE (potential module)
+
+- Client login
+
+- Store credit cards
+
+- Store personal information
+
+- Saves favorites
+
+• To Do:
+
+- Make repository
+
+- Make logo
+
+- Create wireframes
+
+- Main page
+
+- Shop page
+
+- Recipes page
+
+- Payment (form for delivery)
+
+- Create content
+
+- Find free database server to use
+
+- Proposal
+
+
+**NEXT MEETING: Monday February 5th/ 9:30am /Lib 256 **
